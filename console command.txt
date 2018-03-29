@@ -1,0 +1,3 @@
+g++ f.cpp -std=c++11 && ./a.out "rowInTable"
+g++ f.cpp -std=c++11 && ./a.out "sizeTable"
+
